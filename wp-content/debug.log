@@ -1,0 +1,5 @@
+[01-Mar-2026 23:38:39 UTC] PHP Warning:  Undefined array key "host" in /workspaces/cd-wordpress/.wordpress/wp-includes/pluggable.php on line 1721
+[02-Mar-2026 00:06:43 UTC] PHP Fatal error:  Out of memory (allocated 39845888 bytes) (tried to allocate 159744 bytes) in /workspaces/cd-wordpress/.wordpress/wp-includes/class-wp-scripts.php on line 562
+[02-Mar-2026 00:06:54 UTC] PHP Fatal error:  Out of memory (allocated 35651584 bytes) (tried to allocate 2097152 bytes) in /workspaces/cd-wordpress/.wordpress/wp-admin/includes/ajax-actions.php on line 4859
+[02-Mar-2026 00:07:32 UTC] PHP Fatal error:  Out of memory (allocated 33554432 bytes) (tried to allocate 2097152 bytes) in /workspaces/cd-wordpress/.wordpress/wp-admin/includes/ajax-actions.php on line 4859
+[02-Mar-2026 00:07:33 UTC] PHP Fatal error:  Out of memory (allocated 33554432 bytes) (tried to allocate 2097152 bytes) in /workspaces/cd-wordpress/.wordpress/wp-admin/edit-form-blocks.php on line 76
